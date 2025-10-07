@@ -1,6 +1,7 @@
 # CC: Tweaked Stuff
 
 This is a repo for CC:T stuff, i dont want to create a repo for.
+Feel free to visit [the Wiki](https://github.com/Jannnn13/cct-stuff/wiki)!
 
 ## My Stuff
 
