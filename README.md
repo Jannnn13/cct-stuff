@@ -5,8 +5,8 @@ Feel free to visit [the Wiki](https://github.com/Jannnn13/cct-stuff/wiki)!
 
 ## My Stuff
 
-[AFS](./afs.lua) - Advanced Filesystem library, with useful features.
-[OOO Clicker](./ooo-clicker.lua) - A simple but fun game, where you click O's.
+- [AFS](./afs.lua) - Advanced Filesystem library, with useful features.
+- [OOO Clicker](./ooo-clicker.lua) - A simple but fun game, where you click O's.
 
 ## License
 See the [License](./LICENSE) file, everything here is licensed under the MIT License.
